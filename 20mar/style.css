@@ -1,0 +1,72 @@
+@import url('https://fonts.googleapis.com/css2?family=Inter:wght@100..900&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Poppins:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&display=swap');
+#eg1{
+    color: rgba(10, 100, 100, 0.06);
+}
+
+
+#eg3{
+    text-align: right;
+}
+
+#eg4{
+    text-align: center;
+}
+
+#eg5{
+    text-align: justify;
+}
+
+#eg6{
+    text-transform: lowercase;
+}
+
+#eg7{
+    text-transform: uppercase;
+}
+
+#eg8{
+    text-transform: capitalize;
+    line-height: 0px;
+}
+
+#eg9{
+    text-shadow: -10px 20px 5px red;
+}
+
+
+
+#eg10{
+    text-shadow: 0px 0px 10px blue;
+    color: white;
+}
+
+
+#eg11{
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+
+#eg12{
+    font-family: monospace;
+}
+
+#eg13{
+    font-family: "Inter", sans-serif;
+}
+
+#eg14{
+    font-family: "Poppins", sans-serif;
+    font-style: italic;
+}
+
+
+#eg15{
+    font-weight: 100;
+}
+#eg16{
+    font-weight: 400;
+}
+#eg17{
+    font-weight: 900;
+}
