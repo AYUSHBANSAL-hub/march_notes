@@ -1,0 +1,130 @@
+*{
+    margin: 0px;
+    padding: 0px;
+}
+
+#eg1{
+    /* horizontal length */
+    /* absolute values */
+    /* width: 10cm; */
+    /* width: 150mm; */
+    /* width: 300px; */
+    /* relative values */
+    width: 50%;
+
+    background-color: blue;
+}
+
+#eg2{
+    width: 500px;
+    background-color: red;
+    height: 500px;
+}
+
+#eg3{
+    width: 50%;
+    height: 200px;
+    background-color: yellow;
+}
+
+
+#eg4{
+    background-color: black;
+    width: 50%;
+    height: 50%;
+}
+
+#eg5{
+    width: 300px;
+    height: 200px;
+    background-color: red;
+    /* one value */
+    /* margin: 100px; */
+    /* value on all sides */
+    /* two values */
+    /* margin: 20px 50px; */
+    /* margin: y-axis x-axis */
+    /* three values */
+    /* margin: 10px 30px 50px; */
+    /* margin: top left/right bottom  */
+    /* four values */
+    /* margin: 10px 20px 30px 40px; */
+    /* x-axis */
+    /* margin-inline: 20px; */
+    /* margin: auto; */
+    /* directional margin properties */
+    /* margin-top: 10px;
+    margin-left: 50px;
+    margin-right: 30px;
+    margin-bottom: 40px; */
+
+    margin: 50px;
+}
+
+#eg6{
+    width: 300px;
+    height: 200px;
+    background-color: red;
+    margin: 70px;
+}
+
+#eg7,#eg8{
+    width: 300px;
+    height: 200px;
+    background-color: red;
+    margin: 50px;
+}
+
+
+#eg9{
+    width: 300px;
+    height: 200px;
+    background-color: yellow;
+    box-sizing: border-box;
+    /* one value */
+    /* padding: 30px; */
+    /* two value */
+    /* padding: 10px 30px; */
+    /* padding: y-axis x-aixs */
+
+    /* three values */
+    /* padding: 10px 20px 30px; */
+    /* padding: top left/right bottom */
+
+
+    /* four values */
+    /* padding: 10px 20px 30px 40px; */
+    /* padding: top right bottom left */
+
+
+    /* padding-inline: 10px; */
+
+
+    /* directional padding props */
+
+    /* padding-top: 10px;
+    padding-right: 40px;
+    padding-bottom: 50px;
+    padding-left: 20px; */
+
+
+    padding: 30px;
+
+}
+
+#eg10{
+    width: 200px;
+    height: 200px;
+    background-color: pink;
+    margin: 20px;
+    /* border: 15px solid blue; */
+    /* border-width: 10px;
+    border-style: solid;
+    border-color: blue; */
+
+    /* border-top: 10px solid red;
+    border-left: 20px dotted green;
+    border-right: 5px double blue; */
+    border: 10px solid blue;
+    border-radius: 50%;
+}
